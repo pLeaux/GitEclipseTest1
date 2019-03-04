@@ -5,7 +5,9 @@ public class TestApp {
 
 
 		System.out.println("Kr'neki!");
-
+		System.out.println("Sprememba z coomit 2!");
+		
+ 
 	}
 
 }
